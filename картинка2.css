@@ -1,0 +1,87 @@
+/*.b1{
+height: 40px;
+width: 100px;
+ border-radius: 20px;
+ background-color: #12345600;
+ outline: none;
+ border: none;
+}
+.b1:hover{
+    border: 1px solid black;
+}	
+*/
+
+ 
+border: 2px  s*{font-family: 'Benne', serif;}
+
+.xxx{
+height:250px;
+background-color:#efefef;}
+
+.mytext{
+
+	font-size:
+width: 351px;
+height:10px; 
+font-size:50px;
+text-align:center;   
+padding-top: 50px; 
+color:black;
+}
+
+.ccc{
+height:250px;
+
+}
+
+.внутренний{
+width: 700px;
+height:200px;
+
+}
+
+.b77{
+width:100px;
+height:100px; 
+float: left; 
+}
+
+.b88{
+width:100px;
+height:100px; 
+float: left; 
+}
+
+.b99{
+width:100px;
+height:100px; 
+float: left; 
+}
+
+.фотоблоки{
+width:200px;
+height:200px; 
+float: left; 
+}	
+
+
+
+.строчка{
+width:700px;
+height:10vh;
+border: 2px solid grey; 
+}
+
+.cte{ 
+font-size:15px;
+text-align:center;   
+color:#9f9f9f;
+
+}
+
+.лого{
+width: 25px;
+height:25px;
+float: left; 
+
+}
